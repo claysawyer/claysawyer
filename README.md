@@ -7,4 +7,4 @@
      |_| |_|\___|_|_|\___/ 
                        
                        
-Hi, I’m @claysawyer.
+Hi, I’m @claysawyer. I specialize in JavaScript/React, SQL and NoSQL Databases, and Node.js, working across the entire stack to build robust and highly efficient systems. I love breaking down complex problems into simple, easy to understand solutions. 
